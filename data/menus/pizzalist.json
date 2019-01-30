@@ -1,0 +1,14 @@
+{
+    "list" : [
+        {"pizza" : "Pizza Margherita", "price" : "50"},
+        {"pizza" : "Pizza al taglio", "price" : "50"},
+        {"pizza" : "Pizza quattro stagioni", "price" : "50"},
+        {"pizza" : "Chocolate pizza", "price" : "60"},
+        {"pizza" : "fugazzetta", "price" : "70"},
+        {"pizza" : "muzarela", "price" : "100"},
+        {"pizza" : "Tandoori Paneer", "price" : "55"},
+        {"pizza" : "Balado pizza", "price" : "90"},
+        {"pizza" : "pizza marinara", "price" : "60"},
+        {"pizza" : "pizza capricciosa", "price" : "80"}
+    ]
+}
