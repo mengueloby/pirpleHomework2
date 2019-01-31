@@ -7,6 +7,9 @@ GET localhost:3000/api
 #Get informations about a method
 GET localhost:3000/api/help?apimethod={methodname}
 
+#end point for method execution:
+	localhost:3000/api/rest
+
 #In order to execute the order, don't forget to fill your own Stripe and Mailgun api keys in the config.js file 
 
 #Work not finish
